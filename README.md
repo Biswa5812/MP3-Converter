@@ -34,7 +34,7 @@
 
 > Download static build: https://ffmpeg.zeranoe.com/builds/  
 >   
-> After extracting the downloaded file, open the bin folder inside the extracted file: 
+> After extracting the downloaded file, open the bin folder inside the extracted file and copy the path of bin file: 
 
 <img src = "images/s6.PNG" width = "600">
 
