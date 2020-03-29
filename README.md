@@ -52,7 +52,7 @@
 
 > Open Command Prompt and type "ffmpeg":  
 
-<img src = "images/s10.PNG" width = "400">
+<img src = "images/s10.PNG" width = "600">
 
 > If you are able to see the details like this, then you have appropriately set the ffmpeg and can now use this software.
 
