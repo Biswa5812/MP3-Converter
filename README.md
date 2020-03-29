@@ -5,6 +5,6 @@
 # Why MP3?
 
 > - One of the most notable advantages of MP3 is reduced file size.  
-  - The size is often smaller by a factor of 12 when compared to the standard CD Digital Audio.  
-  - MP3 formats are compact i.e compressed when compared to the original format.  
-  - Due to small size hundreds and thousands of songs can be stored.
+> - The size is often smaller by a factor of 12 when compared to the standard CD Digital Audio.  
+> - MP3 formats are compact i.e compressed when compared to the original format.  
+> - Due to small size hundreds and thousands of songs can be stored.
