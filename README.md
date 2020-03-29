@@ -15,3 +15,18 @@
 
 <img src = "images/s1.PNG" width = "400">
 
+>  **Browse your file**   
+
+<img src = "images/s2.PNG" width = "400">
+
+>  **Select the audio file for formatting** 
+
+<img src = "images/s4.PNG" width = "400">
+
+>  **Select to Covert the audio to MP3** 
+
+<img src = "images/s5.PNG" width = "400">
+
+>  **The new MP3 file is generated** 
+
+
