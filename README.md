@@ -21,7 +21,7 @@
 
 >  **Select the audio file for formatting** 
 
-<img src = "images/s4.PNG" width = 600">
+<img src = "images/s4.PNG" width = "600">
 
 >  **Select to Covert the audio to MP3** 
 
