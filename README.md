@@ -30,11 +30,42 @@
 >  **The new MP3 file is generated** 
 
 
+# Setting Up ffmpeg:
+
+> Download static build: https://ffmpeg.zeranoe.com/builds/  
+>   
+> After extracting the downloaded file, open the bin folder inside the extracted file: 
+
+<img src = "images/s6.PNG" width = "600">
+
+> Go to Start and type "Env" and select "Edit System Environment Variables" and Select on Environment Variables: 
+
+<img src = "images/s7.PNG" width = "400">
+
+> Select Path and click Edit: 
+
+<img src = "images/s8.PNG" width = "400">
+
+> Click on New to copy the path of bin folder here, then press ok until you exit the setting box 
+
+<img src = "images/s9.PNG" width = "400">
+
+> Open Command Prompt and type "ffmpeg":  
+
+<img src = "images/s10.PNG" width = "400">
+
+> If you are able to see the details like this, then you have appropriately set the ffmpeg and can now use this software.
+
+
+
+
+
 # Libraries Used
 
 > - Pydub  = For Audio formatting and exporting  
 > - Pathlib = Object-oriented filesystem paths.  
 > - PyQt5 =  GUI for python  
+
 
 # Note
 
