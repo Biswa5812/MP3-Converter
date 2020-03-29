@@ -11,7 +11,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from pydub import AudioSegment
 from pydub.playback import play
 from pathlib import Path
-from PyQt5.QtWidgets import QMessageBox 
+# from PyQt5.QtWidgets import QMessageBox 
 
 
 class Ui_MainWindow(object):
@@ -83,11 +83,11 @@ class Ui_MainWindow(object):
             n = Path(change).name
             self.label_2.setText(n)
         except:
-            msg = QMessageBox()
+            msg = QtWidgets.QMessageBox()
             msg.setWindowTitle("Error Ocurred")
             msg.setText("Audio File not slected")
-            msg.setIcon(QMessageBox.Warning)
-            msg.setStandardButtons(QMessageBox.Retry)
+            msg.setIcon(QtWidgets.QMessageBox.Warning)
+            msg.setStandardButtons(QtWidgets.QMessageBox.Retry)
             x = msg.exec_()
             # self.label_2.setText("Please select an audio File")
         # print("success")
