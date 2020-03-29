@@ -13,5 +13,5 @@
 
 >  **A Simple approach to Convert your Audio File.**   
 
-<img src = "images/s1.png" width = "400">
+<img src = "images/s1.PNG" width = "400">
 
